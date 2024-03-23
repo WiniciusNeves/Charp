@@ -8,7 +8,7 @@ O repositório é organizado da seguinte forma:
 
 - **Exemplos de Código**: Este diretório contém exemplos de código simples e claros para demonstrar conceitos fundamentais da linguagem C#.
 
-- **Projetos**: Aqui estão projetos mais complexos que demonstram a aplicação prática de conceitos aprendidos. Cada projeto tem sua própria pasta e README específico.
+- **Projetos**: Aqui estão projetos mais complexos que demonstram a aplicação prática de conceitos aprendidos.
 
 - **Recursos**: Este diretório contém links úteis, documentos de referência e outros recursos que podem ajudar no aprendizado contínuo de C#.
 
@@ -28,6 +28,6 @@ Agradeço a todos que contribuíram e continuarão contribuindo para este reposi
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, sinta-se à vontade para entrar em contato através do email [seuemail@example.com].
+Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, sinta-se à vontade para entrar em contato através do email Winiciusneves2004@hotmail.com.
 
 Espero que este repositório seja útil para você no seu aprendizado em C#! Happy coding! 🚀
