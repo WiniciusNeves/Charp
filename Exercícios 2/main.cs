@@ -76,6 +76,5 @@ class Program
            
             Console.WriteLine("As raízes são imaginárias;");
             Console.WriteLine("Sem solução para os números reais.");}
-
     }
 }
