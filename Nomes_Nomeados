@@ -1,0 +1,20 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Email email = new Email();
+        email.Enviar("assunto", "Destino", "Mensagem");
+
+        email.Enviar(destino: "Destino", assunto: "Assunto", mensagem: "Mensagem");
+    }
+}
+
+public class Email
+{
+    public void Enviar(string destino, string assunto, string mensagem)
+    {
+        Console.WriteLine("Email enviado para {0} com o assunto {1} e a mensagem {2}", destino, assunto, mensagem);
+    }
+}
