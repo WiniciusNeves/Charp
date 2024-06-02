@@ -80,5 +80,3 @@ Aqui estará o [link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1d2f63d9
 Obrigado por participar! Espero que os conhecimentos adquiridos impulsionem sua carreira no desenvolvimento de software. Continue criando e aprendendo para fazer do mundo da programação um lugar ainda mais incrível! 🚀💻
 
 ---
-
-Boas codificações e aproveite o curso!
